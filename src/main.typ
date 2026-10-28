@@ -1,7 +1,7 @@
 #import "/src/data.typ": *
 
 #let azul = rgb("#003D7C")
-#let fuente = ("Montserrat", "Liberation Sans", "DejaVu Sans")
+#let fuente = ("Montserrat", "Inter","Noto Sans")
 
 #set document(title: titulo, author: autores.map(a => a.nombre))
 #set page(
@@ -13,7 +13,7 @@
     columns: (1fr, 1fr),
     align: (left + horizon, right + horizon),
     image("/src/img/riim_logo.png", height: 1.4cm),
-    text(font: "Arial", size: 8pt)[RIIM, Vol #volumen, Num #numero, #anio],
+    text(font: fuente, size: 8pt)[RIIM, Vol #volumen, Num #numero, #anio],
   ),
   footer: {
     align(center, context counter(page).display())
