@@ -1,0 +1,4 @@
+= Introducción
+Cada artículo deberá tener una extensión mínima de 7 y máxima de 10 páginas, en letra Montserrat 10, interlineado sencillo y márgenes de 2 cm. Las figuras o gráficas, si las hay, deben estar incluidas en el archivo y ser relacionadas en el texto previo a ellas. Deben citarse las fuentes consultadas en el desarrollo del documento.
+
+Etiam ut dictum ex. Sed interdum mattis purus, a auctor nulla vulputate ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam tincidunt accumsan ligula, sed commodo mi mollis at. Vivamus condimentum felis massa, auctor tristique ante vestibulum eget. Ut in ante auctor turpis laoreet porttitor sit amet quis ante. Proin quis tempus orci, ac varius lectus. Nullam finibus et augue nec fringilla. Cras semper ex ac erat ultrices, sit amet imperdiet turpis sagittis. Morbi luctus eget ligula a ultrices. @pinnau1991

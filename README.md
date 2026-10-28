@@ -1,2 +1,3 @@
-# riim-template
+# RIIM Template
+
 Plantilla para la INTERNATIONAL JOURNAL OF  MULTIDISCIPLINARY RESEARCH
